@@ -9,11 +9,31 @@ I'm [Your Name](https://yourwebsite.com), a passionate Developer 🚀 from [Your
 
 ## 🔧 Technologies & Tools
 
-![Your OS](https://img.shields.io/badge/OS-YourOS-FF5733?style=flat-square&logo=YourOSLogo&logoColor=white)
-![Your Primary Language](https://img.shields.io/badge/Code-YourPrimaryLanguage-00C853?style=flat-square&logo=LanguageLogo&logoColor=white)
-![Another Language](https://img.shields.io/badge/Code-AnotherLanguage-2979FF?style=flat-square&logo=LanguageLogo&logoColor=white)
-![Your Favorite Tool](https://img.shields.io/badge/Tool-YourFavoriteTool-FFD700?style=flat-square&logo=ToolLogo&logoColor=white)
-![Another Tool](https://img.shields.io/badge/Tool-AnotherTool-8E24AA?style=flat-square&logo=ToolLogo&logoColor=white)
+![Your OS](https://img.shields.io/badge/OS-YourOS-#FF5733?style=flat-square&logo=YourOSLogo&logoColor=white)
+![Your Primary Language](https://img.shields.io/badge/Code-YourPrimaryLanguage-#00C853?style=flat-square&logo=LanguageLogo&logoColor=white)
+![Another Language](https://img.shields.io/badge/Code-AnotherLanguage-#2979FF?style=flat-square&logo=LanguageLogo&logoColor=white)
+![Your Favorite Tool](https://img.shields.io/badge/Tool-YourFavoriteTool-#FFD700?style=flat-square&logo=ToolLogo&logoColor=white)
+![Another Tool](https://img.shields.io/badge/Tool-AnotherTool-#8E24AA?style=flat-square&logo=ToolLogo&logoColor=white)
+
+## ☕ Support Me
+
+If you find my work helpful, you can support me by contributing via Monero:
+
+Monero (XMR) Wallet: `YOUR_MONERO_WALLET_ADDRESS`
+
+You can also buy me a coffee to show your appreciation! 🚀🎉
+
+<a href="https://www.buymeacoffee.com/yourusername">
+  <img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=yourusername&button_colour=FFDD00&font_colour=000000&font_family=Poppins&outline_colour=000000&coffee_colour=ffffff">
+</a>
+
+## 📚 My Repositories
+
+Check out some of my notable repositories:
+
+- [Repository Name](https://github.com/yourusername/repository-name) - A short description of the repository.
+- [Another Repository](https://github.com/yourusername/another-repository) - Briefly explain the purpose of this repository.
+- [One More Repository](https://github.com/yourusername/one-more-repository) - Provide a quick overview of what this repository contains.
 
 ## &#x1f4c8; GitHub Stats
 
